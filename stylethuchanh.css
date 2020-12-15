@@ -1,0 +1,41 @@
+#BANTIN {
+    color: orange;
+    background-color: black;
+}
+
+#thanhcrossbad {
+    background-color: grey;
+}
+
+#propertile {
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+}
+
+#anhhoai {
+    vertical-align: top;
+}
+
+#anhquangcao2 {
+    vertical-align: top;
+}
+
+#anhquangcao2 {
+    vertical-align: top;
+}
+
+#donaltrum {
+    vertical-align: top;
+}
+
+button:hover {
+    padding: 2px;
+    text-align: center;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: cyan;
+    cursor: pointer;
+}
